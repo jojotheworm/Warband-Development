@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1030
+ 1032
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3181,6 +3181,12 @@ spr_suspension_bridge_a 0 0 suspension_bridge_a bo_suspension_bridge_a 0
 spr_mine_a 0 0 mine_a bo_mine_a 0
 
 
-spr_porte_gothique5 0 0 porte_gothique5 bo_porte_gothique5 0
+spr_remparts_gothique_mur 0 0 remparts_gothique_mur bo_remparts_gothique_mur 0
+
+
+spr_remparts_gothique_porte 0 0 remparts_gothique_porte bo_remparts_gothique_porte 0
+
+
+spr_remparts_base 0 0 remparts_base 0 0
 
 
